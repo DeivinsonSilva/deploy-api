@@ -37,4 +37,4 @@ Projeto do desafio da Sigma Consultoria, um dos requisitos para concorrer a uma 
 </p>
 
 # No Scraping
-Para popular o Sqlite3 foi utilizado o método scraping.webscraping, que se encontra comentado.
+Para popular o Sqlite3 foi utilizado o método scraping.webscraping, que se encontra comentado.# deploy-api
